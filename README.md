@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahin Miah</h1>
-<h3 align="center">A frontend developer from Bangladesh</h3>
+<h3 align="center">A MERN developer from Bangladesh</h3>
 
 - 🌱 I’m currently learning **TypeScript**
 
